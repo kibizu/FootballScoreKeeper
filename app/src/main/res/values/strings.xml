@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Football Score Keeper</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="textZero">0</string>
+    <string name="touchDown">Touch Down</string>
+    <string name="fieldGoal">Field Goal</string>
+    <string name="safety">Safety</string>
+    <string name="drop">Drop</string>
+    <string name="firstButText">Touch down +6</string>
+    <string name="secondButText">field goal +3</string>
+    <string name="thirdButText">safety +2</string>
+    <string name="fourthButText">drop +1</string>
+    <string name="reset">reset</string>
+    <string name="imageViewDesc">NFL backgroud logo</string>
+</resources>
+

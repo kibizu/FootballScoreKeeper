@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="teamScore">30sp</dimen>
+    <dimen name="padding5">5dp</dimen>
+    <dimen name="margin23">23dp</dimen>
+    <dimen name="margin3">3dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="nfl_logo_width">300dp</dimen>
+    <dimen name="nfl_logo_height">290dp</dimen>
+</resources>
